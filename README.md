@@ -11,3 +11,7 @@
 
 ### 2022-01-26 푼 문제
 1. 2628번 종이자르기(https://www.acmicpc.net/problem/2628)
+
+### 2022-01-27 푼 문제
+1. 2116번 주사위 쌓기(https://www.acmicpc.net/problem/2116)
+2. 
