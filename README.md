@@ -15,3 +15,6 @@
 ### 2022-01-27 푼 문제
 1. 2116번 주사위 쌓기(https://www.acmicpc.net/problem/2116)
 2. 2304번 주사위 쌓기(https://www.acmicpc.net/problem/2304)
+
+### 2022-01-28 푼 문제
+1. 2559번 주사위 쌓기(https://www.acmicpc.net/problem/2559)
