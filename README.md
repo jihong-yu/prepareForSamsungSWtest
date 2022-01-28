@@ -18,3 +18,5 @@
 
 ### 2022-01-28 푼 문제
 1. 2559번 주사위 쌓기(https://www.acmicpc.net/problem/2559)
+2. 2578번 빙고(https://www.acmicpc.net/problem/2578)
+3. 2477번 참외밭(https://www.acmicpc.net/problem/2477)
