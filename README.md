@@ -23,3 +23,7 @@
 
 ### 2022-01-29 푼 문제
 1. 2527번 직사각형(https://www.acmicpc.net/problem/2527)
+
+### 2022-01-31 푼 문제
+1. 10157번 자리배정(https://www.acmicpc.net/problem/10157)
+2. 10158번 개미(https://www.acmicpc.net/problem/10158)
