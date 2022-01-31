@@ -27,3 +27,4 @@
 ### 2022-01-31 푼 문제
 1. 10157번 자리배정(https://www.acmicpc.net/problem/10157)
 2. 10158번 개미(https://www.acmicpc.net/problem/10158)
+3. 10163번 색종이(https://www.acmicpc.net/problem/10163)
