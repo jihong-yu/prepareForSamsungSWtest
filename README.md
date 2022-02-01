@@ -28,3 +28,8 @@
 1. 10157번 자리배정(https://www.acmicpc.net/problem/10157)
 2. 10158번 개미(https://www.acmicpc.net/problem/10158)
 3. 10163번 색종이(https://www.acmicpc.net/problem/10163)
+
+### 2022-02-01 푼 문제
+1. 13300번 방 배정(https://www.acmicpc.net/problem/13300)
+2. 14696번 딱지놀이(https://www.acmicpc.net/problem/14696)
+3. 2309번 일곱난쟁이(https://www.acmicpc.net/problem/2309)
