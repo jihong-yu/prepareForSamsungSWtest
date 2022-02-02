@@ -36,3 +36,4 @@
 
 ### 2022-02-02 푼 문제
 1. 2605번 줄 세우기(https://www.acmicpc.net/problem/2605)
+2. 2563번 색종이(https://www.acmicpc.net/problem/2563)
