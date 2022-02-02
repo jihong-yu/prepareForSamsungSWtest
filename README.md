@@ -33,3 +33,6 @@
 1. 13300번 방 배정(https://www.acmicpc.net/problem/13300)
 2. 14696번 딱지놀이(https://www.acmicpc.net/problem/14696)
 3. 2309번 일곱난쟁이(https://www.acmicpc.net/problem/2309)
+
+### 2022-02-02 푼 문제
+1. 2605번 줄 세우기(https://www.acmicpc.net/problem/2605)
