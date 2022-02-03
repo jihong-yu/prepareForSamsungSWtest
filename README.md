@@ -38,3 +38,6 @@
 1. 2605번 줄 세우기(https://www.acmicpc.net/problem/2605)
 2. 2563번 색종이(https://www.acmicpc.net/problem/2563)
 3. 2564번 경비원(https://www.acmicpc.net/problem/2564)
+
+### 2022-02-03 푼 문제
+1. 2491번 수열(https://www.acmicpc.net/problem/2491)
