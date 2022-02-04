@@ -41,3 +41,6 @@
 
 ### 2022-02-03 푼 문제
 1. 2491번 수열(https://www.acmicpc.net/problem/2491)
+
+### 2022-02-04 푼 문제
+1. SWEA2001.파리퇴치(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq&)
