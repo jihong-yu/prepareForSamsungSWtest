@@ -48,3 +48,5 @@
 ### 2022-02-05 푼 문제
 1. SWEA1206. View(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh)
 2. SWEA1208. Flatten(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh)
+3. SWEA5431. 민석이의 과제 체크하기(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl3rWKDBYDFAXm)
+4. 
