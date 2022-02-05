@@ -49,4 +49,6 @@
 1. SWEA1206. View(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh)
 2. SWEA1208. Flatten(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh)
 3. SWEA5431. 민석이의 과제 체크하기(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl3rWKDBYDFAXm)
-4. 
+4. SWEA1970. 쉬운 거스름돈(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PsIl6AXIDFAUq)
+5. SWEA1959. 두개의 숫자열(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpoFaAS4DFAUq)
+
