@@ -52,3 +52,4 @@
 4. SWEA1970. 쉬운 거스름돈(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PsIl6AXIDFAUq)
 5. SWEA1959. 두개의 숫자열(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpoFaAS4DFAUq)
 
+### 2022-02-06 푼 문제
