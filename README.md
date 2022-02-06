@@ -53,3 +53,6 @@
 5. SWEA1959. 두개의 숫자열(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpoFaAS4DFAUq)
 
 ### 2022-02-06 푼 문제
+1. SWEA1209. Sum(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13_BWKACUCFAYh)
+2. SWEA1210. laddar1(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh)
+3. 
