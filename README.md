@@ -58,3 +58,8 @@
 3. SWEA1211. laddar2(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14BgD6AEECFAYh)
 4. SWEA1220. Magnetic(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD)
 5. SWEA1258. 행렬찾기(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18LoAqItcCFAZN)
+
+### 2022-02-08 푼 문제
+1. SWEA1974. 스도쿠검증(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq)
+2. SWEA1961. 숫자배열회전(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pq-OKAVYDFAUq)
+3. 
