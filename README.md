@@ -65,3 +65,4 @@
 3. SWEA4466. 최대성적표만들기(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWOUfCJ6qVMDFAWg)
 
 ### 2022-02-09 푼 문제
+1. SWEA1979. 어디에 단어가 들어갈 수 있을까(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PuPq6AaQDFAUq)
