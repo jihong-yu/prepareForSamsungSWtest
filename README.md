@@ -71,4 +71,8 @@
 1. SWEA2805. 농작물 수확하기(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB)
 2. SWEA6190. 정곤이의 단조 증가하는 수(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWcPjEuKAFgDFAU4)
 3. SWEA1221. GNS(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14jJh6ACYCFAYD)
-4. 
+4. SWEA1215. 회문1(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14QpAaAAwCFAYi)
+5. SWEA1216. 회문2(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14Rq5aABUCFAYi)
+
+### 2022-02-10 푼 문제
+1. 
