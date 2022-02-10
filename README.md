@@ -66,3 +66,9 @@
 
 ### 2022-02-09 푼 문제
 1. SWEA1979. 어디에 단어가 들어갈 수 있을까(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PuPq6AaQDFAUq)
+
+### 2022-02-10 푼 문제
+1. SWEA2805. 농작물 수확하기(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB)
+2. SWEA6190. 정곤이의 단조 증가하는 수(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWcPjEuKAFgDFAU4)
+3. SWEA1221. GNS(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14jJh6ACYCFAYD)
+4. 
