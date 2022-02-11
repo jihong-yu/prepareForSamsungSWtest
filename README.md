@@ -76,4 +76,5 @@
 
 ### 2022-02-10 푼 문제
 1. SWEA1267. 작업순서(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18TrIqIwUCFAZN&)
-2. 
+2. SWEA4613. 러시아 국기 같은 깃발(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQl9TIK8qoDFAXj)
+3. 
