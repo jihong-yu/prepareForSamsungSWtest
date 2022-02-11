@@ -75,4 +75,5 @@
 5. SWEA1216. 회문2(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14Rq5aABUCFAYi)
 
 ### 2022-02-10 푼 문제
-1. 
+1. SWEA1267. 작업순서(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18TrIqIwUCFAZN&)
+2. 
