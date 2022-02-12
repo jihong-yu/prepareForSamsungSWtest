@@ -81,3 +81,4 @@
 ### 2022-02-12 푼 문제
 1. SWEA1860. 진기의 최고급 붕어빵(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LsaaqDzYDFAXc)
 2. SWEA4615. 재미있는 오셀로 게임(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQmA4uK8ygDFAXj#)
+3. 프로그래머스-신규 아이디 추천(https://programmers.co.kr/learn/courses/30/lessons/72410)
