@@ -85,4 +85,7 @@
 
 ### 2022-02-14 푼 문제
 1. SWEA6485.  삼성시의 버스 노선(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWczm7QaACgDFAWn)
+
+### 2022-02-18 푼 문제(수업시간)
+1. SWEA5789. 현주의 상자 바꾸기(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWYygN36Qn8DFAVm)
 2. 
