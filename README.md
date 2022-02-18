@@ -84,8 +84,10 @@
 3. 프로그래머스-신규 아이디 추천(https://programmers.co.kr/learn/courses/30/lessons/72410)
 
 ### 2022-02-14 푼 문제
-1. SWEA6485.  삼성시의 버스 노선(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWczm7QaACgDFAWn)
+1. SWEA6485. 삼성시의 버스 노선(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWczm7QaACgDFAWn)
 
 ### 2022-02-18 푼 문제(수업시간)
 1. SWEA5789. 현주의 상자 바꾸기(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWYygN36Qn8DFAVm)
-2. 
+2. SWEA1859. 백만장자 프로젝트(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc )
+3. SWEA5356. 의석이의 세로로 말해요(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO)
+4. SWEA4408. 자기방으로 돌아가기(https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWNcJ2sapZMDFAV8)
